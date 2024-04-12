@@ -38,4 +38,3 @@ cadcom.tv
 infusionmail.com
 rsml.net
 ilo.brenz.pl
-metamask.io
