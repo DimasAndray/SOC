@@ -80,3 +80,5 @@ selector1._domainkey.wellcome.org
 318betturkey.com
 www.larabahis200.com
 www.bighokicobra.info
+a-poster.info
+work.a-poster.info
