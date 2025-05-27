@@ -1,2 +1,2 @@
-kali.org
-ubuntu.com
+kali.org/
+ubuntu.com/
