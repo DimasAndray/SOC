@@ -2,4 +2,3 @@ ubuntu.com
 *.kali.org
 *.zoom.us
 download.docker.com
-d2h67oheeuigaw.cloudfront.net
