@@ -34,3 +34,4 @@ hackrz.org
 x.gs.thc.org
 paste.ee
 nanopool.org
+f.gs.thc.org
