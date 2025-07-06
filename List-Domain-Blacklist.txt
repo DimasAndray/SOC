@@ -42,4 +42,5 @@ f.gs.thc.org
 v.gs.thc.org
 m.gs.thc.org
 t.gs.thc.org
+z.gs.thc.org
 seo814-17.beautifulsunset.site
