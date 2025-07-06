@@ -10,6 +10,7 @@ gojosatoru.love
 gsocket.io
 aaa.hmdns.top
 hmdns.top
+p.gs.thc.org
 qsocket.io
 babygod.site
 bashupload.com
