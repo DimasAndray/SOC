@@ -11,6 +11,7 @@ gsocket.io
 aaa.hmdns.top
 hmdns.top
 p.gs.thc.org
+a.gs.thc.org
 qsocket.io
 babygod.site
 bashupload.com
