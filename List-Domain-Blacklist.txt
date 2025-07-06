@@ -13,6 +13,7 @@ hmdns.top
 p.gs.thc.org
 a.gs.thc.org
 qsocket.io
+t.gs.thc.org
 babygod.site
 bashupload.com
 kuma.art
