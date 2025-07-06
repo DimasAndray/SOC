@@ -35,3 +35,4 @@ x.gs.thc.org
 paste.ee
 nanopool.org
 f.gs.thc.org
+v.gs.thc.org
