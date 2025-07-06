@@ -14,6 +14,7 @@ p.gs.thc.org
 a.gs.thc.org
 qsocket.io
 t.gs.thc.org
+k.gs.thc.org
 babygod.site
 bashupload.com
 kuma.art
