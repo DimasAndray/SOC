@@ -2,3 +2,4 @@ ubuntu.com
 *.kali.org
 *.zoom.us
 download.docker.com
+visualstudio.com
