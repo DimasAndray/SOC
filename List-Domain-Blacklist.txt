@@ -92,3 +92,4 @@ sh-cp1-mx.yyz2.servername.online
 .xmrig.com
 segfault.net
 skyperthc.github.io
+my1story.xyz
