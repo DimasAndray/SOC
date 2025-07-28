@@ -6,6 +6,7 @@ beautifulsunset.site
 zorokun.xyz
 malamminggumiko.xyz
 raw.githubusercontent.com/22XploiterCrew-Team/
+github.com/hackerschoice/gsocket/
 gist.githubusercontent.com/Seogembul/
 merahmerona.biz
 sshx.io
