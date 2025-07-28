@@ -45,3 +45,4 @@ raw.githubusercontent.com/ly4k/
 segfault.net
 skyperthc.github.io
 xmrig.com
+raw.githubusercontent.com/HaxorSecInfec
