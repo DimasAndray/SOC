@@ -1,3 +1,4 @@
+u.gs.thc.org
 packetsdk.xyz
 gsocket.io
 qsocket.io
