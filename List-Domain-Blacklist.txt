@@ -163,3 +163,4 @@ j.gs.thc.org
 x.gs.thc.org
 m.gs.thc.org
 t.gs.thc.org
+sinkarkes.kemkes.go.id.kemkes.my.id
