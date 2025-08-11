@@ -3,4 +3,4 @@ ubuntu.com
 *.zoom.us
 download.docker.com
 visualstudio.com
-attack.mitre.org
+
