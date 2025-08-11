@@ -1,1 +1,2 @@
 *.exploit-db.com
+*.mitre.org
