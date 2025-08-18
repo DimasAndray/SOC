@@ -1,3 +1,4 @@
 *.exploit-db.com
 *.mitre.org
-*.ultraviewer.net
+
+
