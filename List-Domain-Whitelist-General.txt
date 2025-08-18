@@ -4,4 +4,5 @@ ubuntu.com
 download.docker.com
 visualstudio.com
 *.mitre.org
-*.ultraviewer.net
+
+
