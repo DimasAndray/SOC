@@ -5,3 +5,4 @@ download.docker.com
 visualstudio.com
 *.mitre.org
 *.ultraviewer.net
+siborapornas.id
