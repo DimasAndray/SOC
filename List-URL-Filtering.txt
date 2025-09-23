@@ -47,5 +47,6 @@ skyperthc.github.io
 xmrig.com
 raw.githubusercontent.com/HaxorSecInfec
 raw.githubusercontent.com/.*/hackerschoice
+raw.githubusercontent.com/.*/gsocket
 codeload.github.com/.*/hackerschoice
 github.com/.*/hackerschoice
