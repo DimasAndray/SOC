@@ -46,4 +46,5 @@ segfault.net
 skyperthc.github.io
 xmrig.com
 raw.githubusercontent.com/HaxorSecInfec
+raw.githubusercontent.com/hackerschoice/gsocket/
 
