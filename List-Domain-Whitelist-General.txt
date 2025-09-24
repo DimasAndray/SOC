@@ -5,6 +5,6 @@ download.docker.com
 visualstudio.com
 *.mitre.org
 siborapornas.id
-cdimage.kali.org
+
 
 
