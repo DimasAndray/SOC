@@ -2,6 +2,7 @@ raw.githubusercontent.com/mjkof33/
 raw.githubusercontent.com/arthepsy/
 argotunnel.com
 github.com/hackerschoice
+github.com/hackerschoice/
 beautifulsunset.site
 zorokun.xyz
 malamminggumiko.xyz
@@ -50,3 +51,4 @@ raw.githubusercontent.com/.*/hackerschoice
 raw.githubusercontent.com/.*/gsocket
 codeload.github.com/.*/hackerschoice
 github.com/.*/hackerschoice
+
