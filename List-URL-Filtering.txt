@@ -51,4 +51,4 @@ raw.githubusercontent.com/.*/hackerschoice
 raw.githubusercontent.com/.*/gsocket
 codeload.github.com/.*/hackerschoice
 github.com/.*/hackerschoice
-
+raw.githubusercontent.com/MadExploits/
