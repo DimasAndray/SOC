@@ -52,3 +52,4 @@ raw.githubusercontent.com/.*/gsocket
 codeload.github.com/.*/hackerschoice
 github.com/.*/hackerschoice
 raw.githubusercontent.com/MadExploits/
+https://ifinchina.com/WLSPYZQ
