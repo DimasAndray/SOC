@@ -53,3 +53,4 @@ codeload.github.com/.*/hackerschoice
 github.com/.*/hackerschoice
 raw.githubusercontent.com/MadExploits/
 https://ifinchina.com/WLSPYZQ
+https://zeyatatay.z27.web.core.windows.net/
