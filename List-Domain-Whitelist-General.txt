@@ -5,6 +5,14 @@ download.docker.com
 visualstudio.com
 *.mitre.org
 siborapornas.id
-
-
+kemenkes.cybereason.net
+kemenkes-r.cybereason.net
+kemenkes-1-t.cybereason.net
+kemenkes-2-t.cybereason.net
+probe-dist-asia-northeast-1.cybereason.net
+data-epgw-asia-northeast-1.cybereason.net
+cr-protect-oci.cybereason.net
+cr-protect-oci2.cybereason.net
+cr-protect-oci3.cybereason.net
+cr-protect-oci4.cybereason.net
 
