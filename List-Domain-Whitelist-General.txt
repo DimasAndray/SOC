@@ -15,4 +15,9 @@ cr-protect-oci.cybereason.net
 cr-protect-oci2.cybereason.net
 cr-protect-oci3.cybereason.net
 cr-protect-oci4.cybereason.net
-
+tbc.idngf.id 
+mal-rssh.idngf.id 
+hvi.idngf.id
+financecloudatmr.idngf.id 
+fmis2023tbmal.idngf.id
+fmis2023hvi.idngf.id
