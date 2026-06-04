@@ -1,4 +1,5 @@
 storage.googleapis.com
+login.fc6986.com
 masahibachinh.com
 fengchenyixuan.com
 id-27d.pages.dev/v.js
