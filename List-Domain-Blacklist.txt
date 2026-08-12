@@ -1,3 +1,4 @@
+storage.googleapis.com
 talas789.store
 csufportal.net
 13o.net
